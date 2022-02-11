@@ -16,7 +16,7 @@ html, body {
   counter-increment: delay;
   width: max-content;
   transition:0.5s ease;
-  background: blue;
+  background: #0081ff;
   opacity:0;
   padding:4rem 8rem;
   margin:0.5rem;
